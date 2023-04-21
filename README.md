@@ -17,13 +17,13 @@ PRs welcomed!
 ## Official Project Links
 
 - [typst.app](https://typst.app): The Typst web app
-- [Typst Documentation](https://typst.app/docs/): 
-- [GitHub](https://github.com/typst/typst): 
-- [Blog](https://typst.app/blog/): 
-- [Discord](https://discord.gg/2uDybryKPe): 
-- [Instagram](https://instagram.com/typstapp/): 
-- [LinkedIn](https://www.linkedin.com/company/typst/): 
-- [Twitter](https://twitter.com/typstapp/): 
+- [Typst Documentation](https://typst.app/docs/):
+- [GitHub](https://github.com/typst/typst):
+- [Blog](https://typst.app/blog/):
+- [Discord](https://discord.gg/2uDybryKPe):
+- [Instagram](https://instagram.com/typstapp/):
+- [LinkedIn](https://www.linkedin.com/company/typst/):
+- [Twitter](https://twitter.com/typstapp/):
 
 ## Integrations & Tools
 
@@ -159,40 +159,33 @@ PRs welcomed!
 
 ### Formatting
 
-- [simple-poem-typst](https://github.com/asibahi/simple-poem-typst) - An application of the `measure` function to set Arabic poetry.
-- [typst-boxes](https://github.com/lkoehl/typst-boxes) - A library to draw colorful boxes.
-- [typst-diagbox](https://github.com/PgBiel/typst-diagbox) - A library for diagonal line dividers in Typst tables
-- [typst-tablex](https://github.com/PgBiel/typst-tablex) - More powerful and customizable tables in Typst!
-
-### Graphics
-
-- [typst-canvas](https://github.com/johannes-wolf/typst-canvas) - A library for drawing things
-- [typst-raytracer](https://github.com/SeniorMars/typst-raytracer) - raytracer in typst
+- [simple-poem-typst](https://github.com/asibahi/simple-poem-typst): An application of the `measure` function to set Arabic poetry.
+- [typst-boxes](https://github.com/lkoehl/typst-boxes): A library to draw colorful boxes.
+- [typst-diagbox](https://github.com/PgBiel/typst-diagbox): A library for diagonal line dividers in Typst tables
 
 ### Letters
 
-- [typst-letter](https://github.com/dvdvgt/typst-letter) - A typst letter template inspired by the DIN 5008 norm
-- [typst-letter-template](https://github.com/pascal-huber/typst-letter-template) - A customizable typst letter template with different presets (DIN 5008, Swiss C5)
+- [typst-letter](https://github.com/dvdvgt/typst-letter): A typst letter template inspired by the DIN 5008 norm
 
 ### Linguistics
 
-- [leipzig-gloss](https://gitea.everydayimshuflin.com/greg/typst-lepizig-glossing) - A library that provides primitives for creating glossing rules according to Leipzig.
-- [typst-ipa](https://github.com/imatpot/typst-ipa) - 🔄 ASCII / IPA conversion for Typst
+- [leipzig-gloss](https://gitea.everydayimshuflin.com/greg/typst-lepizig-glossing): A library that provides primitives for creating glossing rules according to Leipzig.
+- [typst-ipa](https://github.com/imatpot/typst-ipa): 🔄 ASCII / IPA conversion for Typst
 
 ### Mathematics
 
-- [commutative-diagrams](https://gitlab.com/giacomogallina/typst-cd) - A library for creating commutative diagrams
-- [typst-algorithms](https://github.com/platformer/typst-algorithms) - A library for writing algorithms
-- [typst-theorems](https://github.com/sahasatvik/typst-theorems) - A library for creating numbered theorem environments
-- [typst-undergradmath](https://github.com/johanvx/typst-undergradmath) - A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
+- [commutative-diagrams](https://gitlab.com/giacomogallina/typst-cd): A library for creating commutative diagrams
+- [typst-algorithms](https://github.com/platformer/typst-algorithms): A library for writing algorithms
+- [typst-theorems](https://github.com/sahasatvik/typst-theorems): A library for creating numbered theorem environments
+- [typst-undergradmath](https://github.com/johanvx/typst-undergradmath): A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
 
 ### Physics
 
-- [physics](https://github.com/Leedehai/typst-physics) - A library for usual physics notations, e.g. vectors and vector fields, matrices, differentials, derivatives, Dirac brakets, tensors, isotopes, and digital signal sequences.
+- [physics](https://github.com/Leedehai/typst-physics): A library for usual physics notations, e.g. vectors and vector fields, matrices, differentials, derivatives, Dirac brakets, tensors, isotopes, and digital signal sequences.
 
 ### Plotting
 
-- [typst-plot](https://github.com/johannes-wolf/typst-plot) - A library for plotting line charts
+- [typst-plot](https://github.com/johannes-wolf/typst-plot): A library for plotting line charts
 
 ### Posters
 
